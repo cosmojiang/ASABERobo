@@ -1,0 +1,1 @@
+This folder contains the document and solidworks files for the mechanical parts (arm and cutter) of the robot for 2017 competition. 
