@@ -1,0 +1,1 @@
+This folder contains all documents for 2017 ASABE Robotics Competition.
